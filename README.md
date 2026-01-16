@@ -18,3 +18,8 @@
 </div><br/>  
 
  Estudante de Engenharia de Sistemas 🖥️
+
+
+Certificados:
+
+<img width="1684" height="1191" alt="image" src="https://github.com/user-attachments/assets/617f8b15-1561-4ef0-b447-7df097f65e75" />
